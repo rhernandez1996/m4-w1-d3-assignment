@@ -1,0 +1,22 @@
+{
+  "name": "m4-w1-d3-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhernandez1996/m4-w1-d3-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhernandez1996/m4-w1-d3-assignment/issues"
+  },
+  "homepage": "https://github.com/rhernandez1996/m4-w1-d3-assignment#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
